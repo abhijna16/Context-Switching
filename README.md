@@ -1,5 +1,4 @@
 # Context-Switching
-A mini project on Context Switching in Operating System 
 
 In this project, we measure the cost of a context switch.
 
